@@ -1,0 +1,21 @@
+
+{% extends "layout.html" %}
+
+{% block pageTitle %}
+  E-GOV Prototype Kit
+{% endblock %}
+
+{% block content %}
+
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
+      <h1 class="govuk-heading-xl">
+        The E-GOV Prototype Kit
+        <span class="govuk-caption-xl">{{releaseVersion}}</span>
+      </h1>{{releaseVersion | log }}
+      <p><a href="google-start-page">Google</a></p>
+      <p><a href="digital-and-technology-spend-controls">Spend Controls</a></p>
+    </div>
+</div>
+
+{% endblock %}
