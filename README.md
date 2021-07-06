@@ -6,7 +6,7 @@
 
 
 # Functionalities:
-## This Product CLearly Identifies :
+## This Product Clearly Identifies :
 (1) Why do citizens need intermediaries for these services? <br>
 (2) Who are the intermediaries? <br>
 (3) How does your proposed product/solution integrate with any/all of the products on the DIGIT stack? <br>
